@@ -1,4 +1,4 @@
-<img align="right" height="690em" src="https://raw.githubusercontent.com/gist/pedrohveloso/c516bbb53797021472f3d4b822676580/raw/0f34a5850309a955e26ee16a64e18ed67d361045/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pedrohveloso/c516bbb53797021472f3d4b822676580/raw/0f34a5850309a955e26ee16a64e18ed67d361045/githubcard.svg"/>
 <h1 align="left">Hey There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Veloso</h1>
 
 <p align="left">
