@@ -2,8 +2,8 @@
 <h1 align="left">Hey There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Veloso</h1>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedrohveloso&show_icons=true&theme=ocean_dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohveloso&layout=compact&theme=ocean_dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedrohveloso&show_icons=true&theme=dark" alt="pedro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohveloso&layout=compact&theme=dark" alt="pedro's most languages"/>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
